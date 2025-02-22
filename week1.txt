@@ -1,1 +1,3 @@
-file thuộc branch week1
+<<<<<<< HEAD
+file thuộc branch week1 và main
+>>>>>>> main
